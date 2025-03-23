@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Pursuing a degree in Software Engineering At Kirinyaga University
+- 🎓 Pursuing a degree in **Software Engineering At Kirinyaga University**
 - 💻 Specializing in **Full-Stack Development, Blockchain, and Cybersecurity**
 - 🌱 Currently learning **Rust & Smart Contract Development**
 - 🤝 Open to **collaborations** on exciting projects
@@ -65,9 +65,9 @@ Debugging is like being a detective in a crime movie where you are also the murd
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-green?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/stanleyotienomakhokha)  
+[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/SOMAC)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-green?style=for-the-badge&logo=gmail)](mailto:stanleyotienomakhoka@gmail.com)
 
 ---
 
