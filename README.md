@@ -46,8 +46,8 @@ Debugging is like being a detective in a crime movie where you are also the murd
 ---
 
 ### 📌 Featured Projects
-🔹 [**Project Name**](https://github.com/your-username/project-name) - A brief description of your project.  
-🔹 [**Another Project**](https://github.com/your-username/another-project) - Another brief description.
+🔹 [**portfolio website**](https://github.com/S0MAC/portfolio website) - A potfolio website about my roadmap a a software engineer  
+
 
 ---
 
