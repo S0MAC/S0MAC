@@ -63,7 +63,7 @@ Debugging is like being a detective in a crime movie where you are also the murd
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/stanleyotienomakhokha)  
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/SOMAC)  
+[![Twitter](https://img.shields.io/badge/Twitter-@yugenfrica-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/SOMAC)  
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-green?style=for-the-badge&logo=gmail)](mailto:stanleyotienomakhoka@gmail.com)
 
 ---
