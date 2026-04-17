@@ -18,13 +18,11 @@
   <img src="https://komarev.com/ghpvc/?username=StanleyOtieno&label=Profile%20Views&color=2563eb&style=flat" />
 </p>
 
----
-
 <!-- ===================== ABOUT ===================== -->
 
 ## 🧠 About Me
 
-```diff
+diff
 + Full-stack developer focused on real-world, scalable applications
 + Strong in system design, UI/UX, and performance optimization
 + Currently building monetizable and impact-driven platforms
