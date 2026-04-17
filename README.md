@@ -1,72 +1,30 @@
-<h1 align="center">Hi, I'm Stanley Otieno 👋</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | Building Scalable Solutions</h3>
+<!-- ===================== HERO ===================== -->
 
 <p align="center">
-  I build modern web applications, solve real-world problems, and turn ideas into functional digital products.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=240&section=header&text=Stanley%20Otieno&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h2 align="center">🚀 Full-Stack Engineer • MERN • System Builder</h2>
+
+<p align="center">
+  <em>I design, build, and scale digital systems — then optimize them until they behave.</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=2563EB&center=true&vCenter=true&lines=MERN+Stack+Engineer;Scalable+Systems+Builder;UI%2FUX+Focused;Consistency+%3D+Growth" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=StanleyOtieno&label=Profile%20Views&color=2563eb&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 University student pursuing software engineering
-- 💻 Specialized in MERN Stack (MongoDB, Express, React, Node.js)
-- 🌍 Passionate about building impactful tech solutions
-- 📈 Interested in startups, SaaS, and digital products
-- ✍️ Creative in both tech and poetry/content creation
+<!-- ===================== ABOUT ===================== -->
 
----
+## 🧠 About Me
 
-## 🧠 What I’m Currently Working On
-- Improving full-stack application architecture
-- Building scalable and responsive web apps
-- Enhancing UI/UX design using Tailwind CSS
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
----
-
-## 📌 Featured Projects
-
-### 🛍 MERN eCommerce Cosmetic Beauty Shop
-A complete eCommerce platform featuring authentication, product management, and responsive UI.
-
-### 🍲 FoodLoop – Food Sharing Platform
-A system connecting food donors to recipients to reduce food waste and support communities.
-
-### 🤖 CryptoBuddy – AI Crypto Assistant
-A chatbot designed to provide crypto insights and user interaction.
-
----
-
-## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-- LinkedIn: (add link)
-- Portfolio: (add link)
-- Email: (professional email)
+```diff
++ Full-stack developer focused on real-world, scalable applications
++ Strong in system design, UI/UX, and performance optimization
++ Currently building monetizable and impact-driven platforms
