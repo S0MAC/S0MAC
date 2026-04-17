@@ -1,71 +1,72 @@
-## Hi there! 👋 I'm Stanley Otieno Makhokha (SOMAC)
+<h1 align="center">Hi, I'm Stanley Otieno 👋</h1>
+<h3 align="center">Full-Stack Developer | MERN Stack | Building Scalable Solutions</h3>
 
-🚀 **Software Engineer || Full-Stack Developer || Blockchain Enthusiast**  
-
-🔭 Passionate about building scalable software, secure systems, and innovative blockchain solutions. Always learning and exploring new technologies.  
-
----
-
-### 🚀 About Me
-- 🎓 Pursuing a degree in **Software Engineering At Kirinyaga University**
-- 💻 Specializing in **Full-Stack Development, Blockchain, and Cybersecurity**
-- 🌱 Currently learning **Rust & Smart Contract Development**
-- 🤝 Open to **collaborations** on exciting projects
-- 🎯 Focused on **clean code, performance, and security**
-- 🤖 Fun fact: I once tried debugging a program for hours, only to realize the issue was a missing semicolon. Lesson learned: Always check the basics first! 😅
+<p align="center">
+  I build modern web applications, solve real-world problems, and turn ideas into functional digital products.
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Skills
-
-#### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-#### **Other Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🚀 About Me
+- 🎓 University student pursuing software engineering
+- 💻 Specialized in MERN Stack (MongoDB, Express, React, Node.js)
+- 🌍 Passionate about building impactful tech solutions
+- 📈 Interested in startups, SaaS, and digital products
+- ✍️ Creative in both tech and poetry/content creation
 
 ---
 
-### 🤓 Developer Humor
-
-💡 *Why do programmers prefer dark mode?* Because light attracts bugs! 🐞
-
-🖥️ *How do you comfort a JavaScript developer?* You console them! 😆
-
-📟 *Why did the developer go broke?* Because he used up all his cache! 💸
-
-Debugging is like being a detective in a crime movie where you are also the murderer. 🔍
+## 🧠 What I’m Currently Working On
+- Improving full-stack application architecture
+- Building scalable and responsive web apps
+- Enhancing UI/UX design using Tailwind CSS
 
 ---
 
-### 📌 Featured Projects
-🔹 [**portfolio website**](https://github.com/S0MAC/portfolio website) - A potfolio website about my roadmap a a software engineer  
+## 🛠 Tech Stack
 
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
 
----
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S0MAC&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S0MAC&layout=compact&theme=radical)
-### 📊 GitHub Achievements
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S0MAC&theme=radical)  
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=S0MAC&theme=radical)
-
----
----
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/stanleyotienomakhokha)  
-[![Twitter](https://img.shields.io/badge/Twitter-@yugenfrica-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/SOMAC)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-green?style=for-the-badge&logo=gmail)](mailto:stanleyotienomakhoka.dev@gmail.com)
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ---
 
-⭐ **Star** my repositories if you find them useful! Happy Coding! 🚀
+## 📌 Featured Projects
+
+### 🛍 MERN eCommerce Cosmetic Beauty Shop
+A complete eCommerce platform featuring authentication, product management, and responsive UI.
+
+### 🍲 FoodLoop – Food Sharing Platform
+A system connecting food donors to recipients to reduce food waste and support communities.
+
+### 🤖 CryptoBuddy – AI Crypto Assistant
+A chatbot designed to provide crypto insights and user interaction.
+
+---
+
+## 📊 GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn: (add link)
+- Portfolio: (add link)
+- Email: (professional email)
