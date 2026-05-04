@@ -5,7 +5,6 @@
 </p>
 
 <h2 align="center">🚀 Full-Stack Engineer • MERN • System Builder</h2>
-
 <p align="center">
   <em>I design, build, and scale digital systems — then optimize them until they behave.</em>
 </p>
