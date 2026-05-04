@@ -49,13 +49,12 @@ Tech: MongoDB, Express, React, Node.js
 <p align="center"> <img src="https://via.placeholder.com/600x300?text=FoodLoop+Preview+GIF" /> </p>
 Connects food donors with communities
 Tech: Django, Python
-🔗 Repo: [ADD LINK]
+
 ⚡ Real-world impact > theoretical code.
 📱 Flutter UI System
 <p align="center"> <img src="https://via.placeholder.com/600x300?text=Flutter+UI+Preview+GIF" /> </p>
 Responsive UI with animations & validation
 Tech: Flutter
-🔗 Repo: [ADD LINK]
 ⚡ Because UX is not optional.
 </details>
 <!-- ===================== STATS ===================== -->
