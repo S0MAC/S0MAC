@@ -1,5 +1,4 @@
 <!-- ===================== HERO ===================== -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=240&section=header&text=Stanley%20Otieno&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
