@@ -21,7 +21,6 @@
 <!-- ===================== ABOUT ===================== -->
 
 ## 🧠 About Me
-
 diff
 + Full-stack developer focused on real-world, scalable applications
 + Strong in system design, UI/UX, and performance optimization
