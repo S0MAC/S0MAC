@@ -39,13 +39,11 @@ My focus is building clean, scalable, and production-ready solutions that solve 
 <p align="center"> <img src="https://via.placeholder.com/600x300?text=CryptoBuddy+Preview+GIF" /> </p>
 AI chatbot simplifying crypto insights
 Tech: Python, APIs
-🔗 Repo: [ADD LINK]
 ⚡ Less hype, more logic.
 🛒 MERN eCommerce Platform
 <p align="center"> <img src="https://via.placeholder.com/600x300?text=eCommerce+Preview+GIF" /> </p>
 Full-stack store with authentication, cart & admin
 Tech: MongoDB, Express, React, Node.js
-🔗 Repo: [ADD LINK]
 ⚡ Built for users, tested by bugs.
 🌍 FoodLoop — Food Sharing Platform
 <p align="center"> <img src="https://via.placeholder.com/600x300?text=FoodLoop+Preview+GIF" /> </p>
