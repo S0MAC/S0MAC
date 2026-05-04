@@ -83,7 +83,6 @@ I trust logs more than assumptions 🔍
 🤝 Let’s Build
 
 If you're working on something:
-
 Scalable
 Impactful
 Worth building
