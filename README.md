@@ -4,6 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=240&section=header&text=Stanley%20Otieno&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+
 <h2 align="center">🚀 Full-Stack Engineer • MERN • System Builder</h2>
 <p align="center">
   <em>I design, build, and scale digital systems — then optimize them until they behave.</em>
