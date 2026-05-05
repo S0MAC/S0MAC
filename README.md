@@ -74,6 +74,7 @@ I debug faster than I reply 📩
 I trust logs more than assumptions 🔍
 “It works” is not the same as “It’s done”
 <!-- ===================== CONTACT ===================== -->
+
 🌐 Connect
 <p align="center"> <a href="[YOUR LINKEDIN]"> <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:[YOUR EMAIL]"> <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail"> </a> <a href="[YOUR PORTFOLIO]"> <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel"> </a> </p>
 <!-- ===================== CTA ===================== -->
